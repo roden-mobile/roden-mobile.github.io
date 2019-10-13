@@ -1,4 +1,4 @@
-# Mobile & IoT (Internet of Things) Actions
+# Mobile & IoT Actions
 <i>work in progress</i>
 
 ## Vendors
